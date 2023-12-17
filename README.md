@@ -1,5 +1,5 @@
 ---
-description: Bienvenue sur la doc de la BaseV1 et de la Template
+description: Bienvenue sur le site de documentation des base publier par moi et Sylver.
 ---
 
 # 👋 Bienvenue
@@ -16,4 +16,10 @@ N'oubliez pas que la base est toujours en développement donc **PAS TERMINER.**
 
 <figure><img src=".gitbook/assets/backleaks.png" alt=""><figcaption></figcaption></figure>
 
-**ici vous pourrez retrouver comment faire chaque modification utile sur la base et l'installation.**
+{% embed url="https://app.gitbook.com/o/9HmEayfgV3yra4LloHTw/s/ZSVuVQ0WUlQx5MXItzum/~/changes/28/base-template/preview" fullWidth="false" %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>       <a data-footnote-ref href="#user-content-fn-1"><strong>BASE TEMPLATE</strong></a></td><td></td><td></td><td><a href=".gitbook/assets/image_2023-05-13_143241065 (1).png">image_2023-05-13_143241065 (1).png</a></td><td><a href="base-template/preview.md">preview.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+[^1]: 
