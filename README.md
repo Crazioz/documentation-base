@@ -18,7 +18,7 @@ N'oubliez pas que la base est toujours en développement donc **PAS TERMINER.**
 
 {% embed url="https://app.gitbook.com/o/9HmEayfgV3yra4LloHTw/s/ZSVuVQ0WUlQx5MXItzum/~/changes/28/base-template/preview" fullWidth="false" %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>       <a data-footnote-ref href="#user-content-fn-1"><strong>BASE TEMPLATE</strong></a></td><td></td><td></td><td><a href=".gitbook/assets/image_2023-05-13_143241065 (1).png">image_2023-05-13_143241065 (1).png</a></td><td><a href="base-template/preview.md">preview.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>         <a data-footnote-ref href="#user-content-fn-1"><strong>BASE TEMPLATE</strong></a></td><td></td><td></td><td><a href=".gitbook/assets/image_2023-05-13_143241065 (1).png">image_2023-05-13_143241065 (1).png</a></td><td><a href="base-template/preview.md">preview.md</a></td></tr><tr><td>                  <strong>BASE V1</strong></td><td></td><td></td><td><a href=".gitbook/assets/Screenshot_6 (1).png">Screenshot_6 (1).png</a></td><td><a href="base-v1/preview.md">preview.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 
